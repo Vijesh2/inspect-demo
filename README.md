@@ -1,1 +1,1 @@
-Some explorations using the inspect api [[https://inspect.aisi.org.uk/]]
+Some explorations using the inspect api: https://inspect.aisi.org.uk/
